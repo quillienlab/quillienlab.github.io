@@ -1,5 +1,5 @@
 
-baseurl      = "localhost"
+baseurl      = https://quillienlab.github.io/docs
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
