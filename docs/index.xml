@@ -2,23 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://quillienlab.github.io/docs/</link>
+    <link>https://quillienlab.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <image>
       <title>My New Hugo Site</title>
-      <url>https://quillienlab.github.io/docs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://quillienlab.github.io/docs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://quillienlab.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://quillienlab.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jul 2024 12:10:54 +0100</lastBuildDate>
-    <atom:link href="https://quillienlab.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First Post</title>
-      <link>https://quillienlab.github.io/docs/posts/first-post/</link>
-      <pubDate>Fri, 05 Jul 2024 12:10:54 +0100</pubDate>
-      <guid>https://quillienlab.github.io/docs/posts/first-post/</guid>
-      <description>Hello World Welcome to my first post on my new Hugo site!</description>
-    </item>
+    <atom:link href="https://quillienlab.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
