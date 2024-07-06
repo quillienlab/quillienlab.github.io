@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://quillienlab.github.io/posts/first-post/</loc>
+    <loc>https://quillienlab.github.io/docs/posts/first-post/</loc>
     <lastmod>2024-07-05T12:10:54+01:00</lastmod>
   </url><url>
-    <loc>https://quillienlab.github.io/tags/introduction/</loc>
+    <loc>https://quillienlab.github.io/docs/tags/introduction/</loc>
     <lastmod>2024-07-05T12:10:54+01:00</lastmod>
   </url><url>
-    <loc>https://quillienlab.github.io/</loc>
+    <loc>https://quillienlab.github.io/docs/</loc>
     <lastmod>2024-07-05T12:10:54+01:00</lastmod>
   </url><url>
-    <loc>https://quillienlab.github.io/posts/</loc>
+    <loc>https://quillienlab.github.io/docs/posts/</loc>
     <lastmod>2024-07-05T12:10:54+01:00</lastmod>
   </url><url>
-    <loc>https://quillienlab.github.io/tags/</loc>
+    <loc>https://quillienlab.github.io/docs/tags/</loc>
     <lastmod>2024-07-05T12:10:54+01:00</lastmod>
   </url><url>
-    <loc>https://quillienlab.github.io/categories/</loc>
+    <loc>https://quillienlab.github.io/docs/categories/</loc>
   </url>
 </urlset>

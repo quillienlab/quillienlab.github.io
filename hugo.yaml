@@ -1,4 +1,4 @@
-baseURL: https://quillienlab.github.io/
+baseURL: https://quillienlab.github.io/docs
 languageCode: en-us
 title: My New Hugo Site
 theme: ["PaperMod"]
