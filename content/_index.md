@@ -1,9 +1,7 @@
 ---
 title: "Home"
-description: "Welcome to my website"
+description: "Welcome to the Edinburgh Concepts and Causality Lab"
 ---
-# Welcome to My Hugo Site
+# Welcome to the Edinburgh Concepts and Causality Lab
 
-This is the homepage of my new Hugo site built with Hugo.
-
-Feel free to browse around and learn more about what I do!
+We study the role of causality in shaping mental representations.

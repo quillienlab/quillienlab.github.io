@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Hugo ʕ•ᴥ•ʔ Bear Blog</title>
+    <title>Home on Concepts and Causality Lab</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Hugo ʕ•ᴥ•ʔ Bear Blog</description>
+    <description>Recent content in Home on Concepts and Causality Lab</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <copyright>Copyright © 2020, Jane Doe.</copyright>
+    <copyright>Copyright © 2024, Tadeg Quillien.</copyright>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>People</title>
+      <link>http://localhost:1313/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/</guid>
+      <description>People Tadeg Quillien I am a chancellor&amp;rsquo;s fellow at the University of Edinburgh.</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>Publications Quillien, T. (2020). When do we think that X caused Y?. Cognition</description>
+    </item>
   </channel>
 </rss>

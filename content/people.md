@@ -1,7 +1,8 @@
 ---
-title: "Home"
-description: "Welcome to my website"
+title: "People"
+description: "list of people"
 ---
 # People
 
-The people working with us
+## Tadeg Quillien 
+I am a chancellor's fellow at the University of Edinburgh.
