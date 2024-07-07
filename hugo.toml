@@ -6,9 +6,9 @@ publishDir = "docs"
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "Hugo ʕ•ᴥ•ʔ Bear Blog"
-author = "Jane Doe"
-copyright = "Copyright © 2020, Jane Doe."
+title = "Edinburgh Concepts and Causality Lab"
+author = "Tadeg Quillien"
+copyright = "Copyright © 2024, Tadeg Quillien."
 languageCode = "en-US"
 
 # Generate a nice robots.txt for SEO
