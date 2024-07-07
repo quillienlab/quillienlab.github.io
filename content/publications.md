@@ -4,4 +4,9 @@ description: "List of publications"
 ---
 
 # Publications
-Quillien, T. (2020). When do we think that X caused Y?. Cognition
+**When do we think that X caused Y?**\
+Tadeg Quillien \
+*Cognition*, 2020
+[[pdf](/Quillien%202020%20actual%20causation.pdf)]
+
+ 
