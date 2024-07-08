@@ -1,0 +1,38 @@
+<!-- {{ $title := .Get "title" }}
+{{ $authors := .Get "authors" }}
+{{ $journal := .Get "journal" }}
+{{ $year := .Get "year" }}
+
+<p>
+  <strong>{{ $title }}</strong><br>
+  {{ $authors | safeHTML }}<br>
+  <em>{{ $journal }}</em>, {{ $year }} 
+  {{ range $key, $value := .Params }}
+    {{ if and (ne $key "title") (ne $key "authors") (ne $key "journal") (ne $key "year") }}
+      [<a href="{{ $value }}">{{ $key }}</a>]
+    {{ end }}
+  {{ end }}
+</p> -->
+
+{{ $title := .Get "title" }}
+{{ $authors := .Get "authors" }}
+{{ $journal := .Get "journal" }}
+{{ $year := .Get "year" }}
+
+<p>
+  <strong>{{ $title }}</strong><br>
+  {{ $authors | safeHTML }}<br>
+  <em>{{ $journal }}</em>, {{ $year }} <br>
+  {{ $order := slice "pdf" "target" "reply" }}
+  {{ range $key := $order }}
+    {{ $value := $.Get $key }}
+    {{ if $value }}
+      [<a href="{{ $value }}">{{ $key }}</a>]
+    {{ end }}
+  {{ end }}
+  {{ range $key, $value := .Params }}
+    {{ if and (ne $key "title") (ne $key "authors") (ne $key "journal") (ne $key "year") (not (in $order $key)) }}
+      [<a href="{{ $value }}">{{ $key }}</a>]
+    {{ end }}
+  {{ end }}
+</p>
