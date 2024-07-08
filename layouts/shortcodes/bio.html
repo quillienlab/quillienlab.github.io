@@ -1,0 +1,14 @@
+{{ $name := .Get "name" }}
+{{ $title := .Get "title" }}
+{{ $text := .Get "text" | markdownify }}
+{{ $imageSrc := .Get "image" }}
+{{ $imageAlt := .Get "alt" }}
+{{ $imageWidth := .Get "width" }}
+{{ $contact := .Get "contact" }}
+{{ $scholar := .Get "scholar"}}
+
+<h2>{{ $name }} ({{ $title }})</h2>
+<div>{{ $text }}</div>
+<img src="{{ $imageSrc }}" alt="{{ $imageAlt }}" width="{{ $imageWidth }}">
+<div>email: {{$contact}}</div>
+<div><a href={{$scholar}}>google scholar</a></url> </div>

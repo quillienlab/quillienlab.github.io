@@ -7,5 +7,7 @@
     <loc>http://localhost:1313/people/</loc>
   </url><url>
     <loc>http://localhost:1313/publications/</loc>
+  </url><url>
+    <loc>http://localhost:1313/resources/</loc>
   </url>
 </urlset>

@@ -3,6 +3,33 @@ title: "Publications"
 description: "List of publications"
 ---
 
+(standard disclaimer: PDFs are available for non-commercial information purposes only.) 
+
+If a link is broken, or you have trouble interpreting the data / reproducing an analysis / running a model, please feel free to reach out to tadeg.quillien AT gmail.com.
+
+## Preprints
+
+{{< publication 
+    title="Guesses as compressed probability distributions" 
+    authors="T. Quillien, N. Bramley, C. Lucas" 
+    journal="Pre-print" 
+    year="2023" 
+    pdf="/Quillien Bramley & Lucas 2023 preprint.pdf"
+    code_and_data="https://osf.io/wz649/"
+    thread="https://x.com/TadegQuillien/status/1722311542878634218"
+>}}
+
+{{< publication 
+    title="People attribute purpose to autonomous vehicles when explaining their behavior" 
+    authors="B. Gyevnar, S. Droop, T. Quillien, S. Cohen, N. Bramley, C. Lucas, S. Albrecht" 
+    journal="Pre-print" 
+    year="2024" 
+    pdf="/Gyevnar et al 2024 preprint.pdf"
+    code_and_data="https://github.com/Stephaniedroop/AV_Explanations/tree/main"
+    thread="https://x.com/TadegQuillien/status/1769772057565278381"
+>}}
+
+
 ## Journal publications
 
 {{< publication 
@@ -11,6 +38,7 @@ description: "List of publications"
     journal="Topics in Cognitive Science" 
     year="2023" 
     pdf="/Bramley et al 2023.pdf"
+    thread="https://twitter.com/NeilBramley/status/1709913894032937166"
 >}}
 
 {{< publication 
@@ -19,15 +47,20 @@ description: "List of publications"
     journal="Cognition" 
     year="2023" 
     pdf="/Quillien Tooby and Cosmides 2023.pdf"
+    code_and_data="https://osf.io/3syce/?view_only=d5f639b7bda84962a72b83baa484b797"
+    SI="https://osf.io/4axh5?view_only=d5f639b7bda84962a72b83baa484b797"
+    thread="https://twitter.com/TadegQuillien/status/1649408388697038849"
 >}}
 
 
 {{< publication 
     title="Counterfactuals and the logic of causal selection" 
-    authors="Tadeg Quillien, Christopher Lucas" 
+    authors="T. Quillien, C. Lucas" 
     journal="Psychological Review" 
     year="2023" 
     pdf="/Quillien & Lucas 2023.pdf" 
+    code_and_data="https://osf.io/h42f7/"
+    thread="https://twitter.com/TadegQuillien/status/1536385324682723329"
 >}}
 
 {{< publication 
@@ -36,6 +69,9 @@ description: "List of publications"
     journal="Cognitive Science" 
     year="2023" 
     pdf="/Marchant et al 2023.pdf"
+    code_and_data="https://osf.io/qh23f/"
+    SI="https://osf.io/ygjpq"
+    thread="https://twitter.com/TadegQuillien/status/1617592429108166656"
 >}}
 
 {{< publication 
@@ -44,6 +80,8 @@ description: "List of publications"
     journal="Cognition" 
     year="2023" 
     pdf="/Quillien 2023.pdf"
+    code_and_data="https://osf.io/jtavm"
+    thread="https://twitter.com/TadegQuillien/status/1595834790971940866?s=20&t=DOyo1xWXyYEmJIjSTj6_hg"
 >}}
 
 {{< publication 
@@ -52,6 +90,10 @@ description: "List of publications"
     journal="Cognitive Science" 
     year="2022" 
     pdf="/Quillien & Barlev 2022.pdf"
+    code="https://osf.io/z4dbx/"
+    data="https://osf.io/nz84k/"
+    SI="https://osf.io/6jgez/"
+    thread="https://twitter.com/TadegQuillien/status/1381994294312120320?s=20&t=MB9ZVJJHWuz7f_KVJGYwlw"
 >}}
 
 {{< publication 
@@ -60,16 +102,22 @@ description: "List of publications"
     journal="Cognition" 
     year="2021" 
     pdf="/Quillien & German 2021.pdf"
+    code_and_data="https://osf.io/42x7h/"
+    SI="https://osf.io/dp5xr/"
+    thread="https://twitter.com/TadegQuillien/status/1412825972995497992?s=20&t=JWC2i0u2A00kbgX0hryFlw"
 >}}
 
 
 
  {{< publication 
     title="When do we think that X caused Y?" 
-    authors="Tadeg Quillien" 
+    authors="T. Quillien" 
     journal="Cognition" 
     year="2020" 
     pdf="/Quillien%202020%20actual%20causation.pdf" 
+    code="https://osf.io/x98ug/"
+    SI="https://drive.google.com/file/d/1KcyMWDbF4aU-gK_4WcHV4nB5D592Zx2s/view?usp=sharing"
+    media="https://medicalxpress.com/news/2020-12-psychologist-illuminates-humanity-fundamental-concepts.html"
 >}}
 
 {{< publication 
@@ -78,6 +126,11 @@ description: "List of publications"
     journal="Journal of Theoretical Biology" 
     year="2020" 
     pdf="/Quillien 2020 Evolution of Conditional and Unconditional Commitment.pdf"
+    code="https://ars.els-cdn.com/content/image/1-s2.0-S002251932030059X-mmc2.txt"
+    data="https://data.mendeley.com/datasets/pt69yc45cr/1"
+    SI="https://ars.els-cdn.com/content/image/1-s2.0-S002251932030059X-mmc1.pdf"
+    media="http://dailynexus.com/2020-03-31/better-together-the-evolution-of-commitment-and-altruism-in-relationships/"
+    thread="https://twitter.com/TadegQuillien/status/1234587594354118657?s=20&t=dJ6HVQ8hjD2c9Fj0sD_5tw"
 >}}
 
 {{< publication 
@@ -86,6 +139,9 @@ description: "List of publications"
     journal="Proceedings of the Royal Society B" 
     year="2019" 
     pdf="/Quillien 2019.pdf"
+    code="https://rs.figshare.com/articles/Simulation_code_from_Universal_modesty_in_signal-burying_games/8282519"
+    data="https://rs.figshare.com/articles/Simulation_data_from_Universal_modesty_in_signal-burying_games/8282516"
+    media="https://www.newshub.co.nz/home/world/2019/07/humblebragging-vs-braggadocio-research-reveals-why-bragging-turns-people-off.html"
 >}}
 
 {{< publication 
@@ -102,6 +158,7 @@ description: "List of publications"
     journal="Letters on Evolutionary Behavioral Science" 
     year="2017" 
     pdf="/van leeuwen quillien & boyer 2017.pdf"
+    data="https://osf.io/6a7m4/"
 >}}
 
 {{< publication 
@@ -110,6 +167,9 @@ description: "List of publications"
     journal="Proceedings of the National Academy of Sciences" 
     year="2017" 
     pdf="/Sznycer et al 2017 Cross-cultural regularities in the cognitive architecture of pride.pdf"
+    media_1="https://www.lanacion.com.ar/lifestyle/la-aprobacion-de-los-otros-y-la-psicologia-de-la-sociabilidad-nid1994327"
+    media_2="https://www.weforum.org/agenda/2017/02/pride-has-a-bad-reputation-but-heres-why-it-might-be-a-good-thing"
+    media_3="https://phys.org/news/2017-02-humans-correctly-personal-qualities-valued.html"
 >}}
 
 ## Peer-reviewed conference proceedings
@@ -120,6 +180,7 @@ description: "List of publications"
     journal="Proceedings of the Cognitive Science Society" 
     year="2024" 
     pdf="/Marchant et al 2024.pdf"
+    code="https://osf.io/62frz/?view_only=def10df12eb143ef9b83d6061b5ecd09"
 >}}
 
 {{< publication 
@@ -128,6 +189,8 @@ description: "List of publications"
     journal="Proceedings of the Cognitive Science Society" 
     year="2023" 
     pdf="/Konuk et al 2023.pdf"
+    code_and_data="https://osf.io/3th7a/"
+    thread="https://twitter.com/TadegQuillien/status/1660671866124500997"
 >}}
 
 {{< publication 
@@ -136,6 +199,7 @@ description: "List of publications"
     journal="Proceedings of the Cognitive Science Society" 
     year="2023" 
     pdf="/Marchant et al 2023 Markov violations.pdf"
+    thread="https://twitter.com/TadegQuillien/status/1654530487056998400"
 >}}
 
 {{< publication 
@@ -144,6 +208,8 @@ description: "List of publications"
     journal="Proceedings of the Cognitive Science Society" 
     year="2023" 
     pdf="/Quillien et al 2023 counterfactuals.pdf"
+    code_and_data="https://osf.io/fzgmn/?view_only=6106ba12602d4f11bb721ccda14e949c"
+    thread="https://twitter.com/TadegQuillien/status/1673355608337047552"
 >}}
 
 {{< publication 
@@ -152,6 +218,7 @@ description: "List of publications"
     journal="Proceedings of the Cognitive Science Society" 
     year="2023" 
     pdf="/Szollosi et al 2023.pdf"
+    demo="https://eco.ppls.ed.ac.uk/~aszollos/zendo_simple_inst_1/demo.html"
 >}}
 
 {{< publication 
@@ -169,6 +236,7 @@ description: "List of publications"
     year="2022" 
     pdf="/Quillien & Lucas 2022.pdf"
     code_and_data="https://osf.io/wfgya/"
+    thread="https://twitter.com/TadegQuillien/status/1527692890209656833?s=20&t=z4ju4Ancp_jikHxub4HmwA"
 >}}
 
 {{< publication 
@@ -189,6 +257,8 @@ description: "List of publications"
     journal="Behavioral and Brain Sciences (commentary)" 
     year="2024" 
     pdf="/Hoffman Quillien & Burum 2024.pdf"
+    target="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/beyond-playing-20-questions-with-nature-integrative-experiment-design-in-the-social-and-behavioral-sciences/7E0D34D5AE2EFB9C0902414C23E0C292"
+    reply="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/replies-to-commentaries-on-beyond-playing-20-questions-with-nature/AAF1E9FDF6BC304DFAE42B6C88ABECD2"
 >}}
 
 {{< publication 
