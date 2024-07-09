@@ -2,11 +2,10 @@
 title: "Home"
 description: "Welcome to the Edinburgh Concepts and Causality Lab"
 ---
+&nbsp;
 # Welcome to the Edinburgh Concepts and Causality Lab
 
-
-
-{{< textpic image="/edinburgh-picture-scott-chambers.jpg" alt="alt_text" width="250" >}}
+{{< textpic image="/edinburgh-picture-scott-chambers.jpg" alt="alt_text" width="300" >}}
 
 We study how the mind works, using a combination of psychology experiments and computational modeling. We are based in the School of Philosophy, Psychology and Language Sciences at the University of Edinburgh.
 
