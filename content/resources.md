@@ -13,7 +13,9 @@ Code and data from published work are available next to the relevant [publicatio
 
 [Dan Lassiter](https://danlassiter2.github.io/)
 
-[Cognition Computation and Development Lab](https://ccdedinburgh.uk/)
+[Cognition Computation and Development lab](https://ccdedinburgh.uk/)
+
+[Zhao lab](https://zhaobn.github.io/) (opens January 2025)
 
 ## Agent-based models
 

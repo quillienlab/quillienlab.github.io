@@ -32,6 +32,14 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
 
 ## Journal publications
 
+
+{{< publication
+    title="Religious signaling and prosociality: a review of the literature"
+    authors="S. Northover, T. Quillien, D. Conroy-Beam, A. Cohen"
+    journal="Evolution and Human Behavior"
+    year="forthcoming"
+>}}
+
 {{< publication 
     title="Local search and the evolution of world models" 
     authors="N. Bramley, B. Zhao, T. Quillien, C. Lucas" 
