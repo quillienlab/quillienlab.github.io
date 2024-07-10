@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=64541&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="shortcut icon" href="/favicon.png" />
@@ -11,19 +11,19 @@
 <meta name="keywords" content="" />
 
 
-<meta property="og:url" content="http://localhost:64541/publications/">
+<meta property="og:url" content="http://localhost:1313/publications/">
   <meta property="og:site_name" content="Concepts and Causality Lab">
   <meta property="og:title" content="Publications">
   <meta property="og:description" content="List of publications">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-    <meta property="og:image" content="http://localhost:64541/images/share.png">
+    <meta property="og:image" content="http://localhost:1313/images/share.png">
 
 
 
 
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="http://localhost:64541/images/share.png">
+  <meta name="twitter:image" content="http://localhost:1313/images/share.png">
   <meta name="twitter:title" content="Publications">
   <meta name="twitter:description" content="List of publications">
 
@@ -33,7 +33,7 @@
   <meta itemprop="name" content="Publications">
   <meta itemprop="description" content="List of publications">
   <meta itemprop="wordCount" content="702">
-  <meta itemprop="image" content="http://localhost:64541/images/share.png">
+  <meta itemprop="image" content="http://localhost:1313/images/share.png">
 <meta name="referrer" content="no-referrer-when-downgrade" />
 
   <style>
@@ -208,15 +208,41 @@
     }
   }
 
- 
 
- 
+   
 
-.pic {
-  float: right;
-  margin-left: 10px;  
+
+
+
+.content-block {
+  border: 1px solid red;
 }
 
+.content-block__text {
+  border: 1px solid blue;
+}
+
+.content-block__image {
+  float: right;
+  margin-left: 10px;
+}
+
+
+
+@media (max-width: 600px) {
+  .content-block {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .content-block__image {
+    width: 100%;
+    order: -1;
+  }
+}
+
+
+  
 </style>
 
 </head>

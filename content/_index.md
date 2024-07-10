@@ -2,7 +2,7 @@
 title: "Home"
 description: "Welcome to the Edinburgh Concepts and Causality Lab"
 ---
-&nbsp;
+<!-- &nbsp; -->
 # Welcome to the Edinburgh Concepts and Causality Lab
 
 {{< textpic image="/edinburgh-picture-scott-chambers.jpg" alt="alt_text" width="300" >}}

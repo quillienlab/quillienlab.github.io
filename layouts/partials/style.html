@@ -170,13 +170,39 @@
     }
   }
 
-/* added by user */
 
-/* styles.html or custom.css */
+  /* added by user */
 
-.pic {
-  float: right;
-  margin-left: 10px; /* Adjust spacing between text and picture */
+
+
+
+.content-block {
+  border: 1px solid red;
 }
 
+.content-block__text {
+  border: 1px solid blue;
+}
+
+.content-block__image {
+  float: right;
+  margin-left: 10px;
+}
+
+
+
+@media (max-width: 600px) {
+  .content-block {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .content-block__image {
+    width: 100%;
+    order: -1;
+  }
+}
+
+
+  
 </style>

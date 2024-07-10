@@ -2,12 +2,9 @@
 {{ $imageAlt := .Get "alt" }}
 {{ $imageWidth := .Get "width" }}
 
-<div >
-  <div class="pic">
-    <img src="{{ $imageSrc }}" alt="{{ $imageAlt }}" width="{{ $imageWidth }}">
-  </div>
-  <div >
+<div  >
+  <img class="content-block__image" src="{{ $imageSrc }}" alt="{{ $imageAlt }}" width="{{ $imageWidth }}">
+
     {{ .Inner | markdownify }}
-  </div>
 </div>
 
