@@ -207,6 +207,48 @@
     }
   }
 
+
+   
+
+
+
+
+.content-block {
+  border: 1px solid red;
+}
+
+.content-block__text {
+  border: 1px solid blue;
+}
+
+.content-block__image {
+  float: right;
+  margin-left: 10px;
+}
+
+.content-block__logo{
+  float: right;
+}
+
+
+@media (max-width: 600px) {
+  .content-block {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .content-block__image {
+    width: 100%;
+    order: -1;
+  }
+
+  .content-block__logo {
+    width:100%;
+  }
+}
+
+
+  
 </style>
 
 </head>
@@ -216,7 +258,7 @@
   <div>
       <b style="font-size: 160%">Concepts and Causality Lab</b>
     
-    <div class="pic">
+    <div class="content-block__logo">
       <img  src="/University_of_Edinburgh-Logo-cropped.svg" alt="alt_text" width="300" >
   
     </div>

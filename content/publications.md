@@ -38,6 +38,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     authors="S. Northover, T. Quillien, D. Conroy-Beam, A. Cohen"
     journal="Evolution and Human Behavior"
     year="forthcoming"
+    pdf="/Northover et al 2024.pdf"
 >}}
 
 {{< publication 
