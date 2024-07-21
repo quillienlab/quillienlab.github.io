@@ -20,9 +20,7 @@ We are looking to hire graduate students for this admission cycle (2024-2025). I
  I have been interested in content and meaning ever since coming into contact with abstract art and semiotics in my undergraduate degree. At the same time, learning to speak and write in Russian let me see the complex relationship between language and thought. 
  
  Before reentering higher education in 2017 I worked as an analyst in accounting and finance. 
- 
- In my HCN MSc dissertation I investigate how context affects how people infer the intentions of others. 
- 
+  
  My PhD (September 2021 to August 2025) is funded by the Natural Language Processing Centre for Doctoral Training.
 
  {{< /bio >}}
