@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Concepts and Causality Lab</title>
-    <link>http://localhost:60769/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Concepts and Causality Lab</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024, Tadeg Quillien.</copyright>
-    <atom:link href="http://localhost:60769/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>People</title>
-      <link>http://localhost:60769/people/</link>
+      <link>http://localhost:1313/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60769/people/</guid>
+      <guid>http://localhost:1313/people/</guid>
       <description>People We are looking to hire graduate students for this admission cycle (2024-2025). If interested, please contact Tadeg with some information about your research interests and background.&#xA;Tadeg Quillien (Principal Investigator)&#xD;I am a chancellor&amp;rsquo;s fellow (research-focused faculty member) in the Psychology department at the University of Edinburgh. Before that, I was a postdoc with Chris Lucas and Neil Bramley (also at Edinburgh). I did my PhD at UCSB&amp;rsquo;s Center for Evolutionary Psychology, working with Leda Cosmides and John Tooby.</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>http://localhost:60769/publications/</link>
+      <link>http://localhost:1313/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60769/publications/</guid>
+      <guid>http://localhost:1313/publications/</guid>
       <description>(standard disclaimer: PDFs are available for non-commercial information purposes only.)&#xA;If a link is broken, or you have trouble interpreting the data / reproducing an analysis / running a model, please feel free to reach out to tadeg.quillien AT gmail.com.&#xA;Preprints Guesses as compressed probability distributions&#xA;T. Quillien, N. Bramley, C. Lucas&#xA;Pre-print, 2023 [pdf]&#xD;[code_and_data]&#xD;[thread]&#xD;People attribute purpose to autonomous vehicles when explaining their behavior&#xA;B. Gyevnar, S. Droop, T.</description>
     </item>
     <item>
       <title>Resources</title>
-      <link>http://localhost:60769/resources/</link>
+      <link>http://localhost:1313/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60769/resources/</guid>
+      <guid>http://localhost:1313/resources/</guid>
       <description>Code and data from papers Code and data from published work are available next to the relevant publications. If a link is broken, or you have trouble interpreting the data / reproducing an analysis / running a model, please feel free to reach out to tadeg.quillien AT gmail.com.&#xA;More computational cognitive science / causality research at Edinburgh Bramley lab&#xA;Lucas lab&#xA;Dan Lassiter&#xA;Cognition Computation and Development lab&#xA;Zhao lab (opens January 2025)</description>
     </item>
   </channel>
