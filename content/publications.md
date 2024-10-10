@@ -10,6 +10,15 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
 ## Preprints
 
 {{< publication 
+    title="Plural causes" 
+    authors="C. Konuk, T. Quillien, S. Mascarenhas" 
+    journal="Pre-print" 
+    year="2024" 
+    pdf="/Konuk Quillien & Mascarenhas 2024 preprint.pdf"
+    code_and_data="https://osf.io/43m5d/"
+>}}
+
+{{< publication 
     title="Guesses as compressed probability distributions" 
     authors="T. Quillien, N. Bramley, C. Lucas" 
     journal="Pre-print" 
