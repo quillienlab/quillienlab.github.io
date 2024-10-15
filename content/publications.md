@@ -16,6 +16,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     year="2024" 
     pdf="/Konuk Quillien & Mascarenhas 2024 preprint.pdf"
     code_and_data="https://osf.io/43m5d/?view_only=3d26a80b8e394fa9ad7792a690de8fe6"
+    thread="https://x.com/TadegQuillien/status/1844470355551007062"
 >}}
 
 {{< publication 
