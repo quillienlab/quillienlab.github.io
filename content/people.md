@@ -36,7 +36,7 @@ We are looking to hire graduate students for this admission cycle (2024-2025). I
 
 
 {{< bio name="Madeleine Horner" title="Affiliated graduate student" image="/madeleine_horner.png" alt="madeleine_horner" width="200" 
- contact="m.horner-1@sms.ed.ac.uk" >}} 
+ contact="m.horner-1 AT sms.ed.ac.uk" >}} 
 
  My research interests lie at the intersection of social and cognitive psychology, with a focus on the cognitive mechanisms underlying empathy. My work explores empathy not just as a pro-social emotion, but as a social signal that can indicate intentions and foster closeness. Specifically, I am interested in understanding how people infer another’s level of empathy based on their observable pro-social actions and how these inferences can be utilized to identify ingroup versus outgroup membership. To examine these questions, I use computational models of social cognition and Bayesian inference, aiming to uncover the processes that guide how empathy is perceived and understood in social interactions. 
 
