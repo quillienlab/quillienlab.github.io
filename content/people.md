@@ -11,6 +11,14 @@ We are looking to hire graduate students for this admission cycle (2024-2025). I
 
  {{< /bio >}}
 
+ {{< bio name="Madeleine Horner" title="Graduate student" image="/madeleine_horner.png" alt="madeleine_horner" width="200" contact="m.horner-1 AT sms.ed.ac.uk" >}} 
+
+ My research interests lie at the intersection of social and cognitive psychology, with a focus on the cognitive mechanisms underlying empathy. My work explores empathy not just as a pro-social emotion, but as a social signal that can indicate intentions and foster closeness. Specifically, I am interested in understanding how people infer another’s level of empathy based on their observable pro-social actions and how these inferences can be utilized to identify ingroup versus outgroup membership. To examine these questions, I use computational models of social cognition and Bayesian inference, aiming to uncover the processes that guide how empathy is perceived and understood in social interactions. 
+
+I completed my undergraduate studies in Psychology, with a minor in the History of Consciousness, at the University of California Santa Cruz. I then went on to complete a MSc in Psychological Research at the University of Edinburgh. I am now undertaking a PhD in Psychology at the University of Edinburgh, supervised by Adam Moore and Tadeg Quillien.
+
+ {{< /bio >}}
+
 {{< bio name="Stephanie Droop" title="Affiliated graduate student" image="/stephanie_droop.jpg" alt="stephanie_droop" width="200" contact="s0342840 AT sms.ed.ac.uk" scholar="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=stephanie+droop&btnG=">}}
 
  My research questions tackle how mental representation and abstraction work. What is gained and what is lost when we conceptualise or formalise? How do we choose the best level of detail for an explanation?
@@ -34,15 +42,15 @@ We are looking to hire graduate students for this admission cycle (2024-2025). I
 
  {{< /bio >}}
 
+ {{< bio name="Christian Odenwald" title="Affiliated graduate student" image="/christian_odenwald.png" alt="christian_odenwald" width="200" contact="c.l.odenwald AT sms.ed.ac.uk" >}} 
 
-{{< bio name="Madeleine Horner" title="Affiliated graduate student" image="/madeleine_horner.png" alt="madeleine_horner" width="200" 
- contact="m.horner-1 AT sms.ed.ac.uk" >}} 
+ I focus on exploring questions related to Actual Causation, an interest sparked by studying the formal semantics of subjunctive conditionals and their potential applications in real-world computational contexts. My current research examines various theories of Actual Causation and the formal properties of causal models.
 
- My research interests lie at the intersection of social and cognitive psychology, with a focus on the cognitive mechanisms underlying empathy. My work explores empathy not just as a pro-social emotion, but as a social signal that can indicate intentions and foster closeness. Specifically, I am interested in understanding how people infer another’s level of empathy based on their observable pro-social actions and how these inferences can be utilized to identify ingroup versus outgroup membership. To examine these questions, I use computational models of social cognition and Bayesian inference, aiming to uncover the processes that guide how empathy is perceived and understood in social interactions. 
-
-I completed my undergraduate studies in Psychology, with a minor in the History of Consciousness, at the University of California Santa Cruz. I then went on to complete a MSc in Psychological Research at the University of Edinburgh. I am now undertaking a PhD in Psychology at the University of Edinburgh, supervised by Adam Moore and Tadeg Quillien.
-
+I have a background in data science and philosophy, which both influence my current research. My previous work in computer vision has given me practical experience in computational methodologies, while my ongoing curiosity about the philosophy of language deepens my interdisciplinary perspective. A key aim of my research is to foster dialogue and collaboration across fields such as philosophy, computer science, psychology, and econometrics.
  {{< /bio >}}
+
+
+
  
  
 
