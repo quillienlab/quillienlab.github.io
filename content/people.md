@@ -42,7 +42,7 @@ I completed my undergraduate studies in Psychology, with a minor in the History 
 
  {{< /bio >}}
 
- {{< bio name="Christian Odenwald" title="Affiliated graduate student" image="/christian_odenwald.png" alt="christian_odenwald" width="200" contact="c.l.odenwald AT sms.ed.ac.uk" >}} 
+ {{< bio name="Christian Odenwald" title="Affiliated graduate student" image="/christian_odenwald.jpg" alt="christian_odenwald" width="200" contact="c.l.odenwald AT sms.ed.ac.uk" >}} 
 
  I focus on exploring questions related to Actual Causation, an interest sparked by studying the formal semantics of subjunctive conditionals and their potential applications in real-world computational contexts. My current research examines various theories of Actual Causation and the formal properties of causal models.
 
