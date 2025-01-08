@@ -10,6 +10,15 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
 ## Preprints
 
 {{< publication 
+    title="Productive causation and compositionality" 
+    authors="T. Quillien, N. Bramley, C. Lucas" 
+    journal="Pre-print" 
+    year="2025" 
+    pdf="/Quillien Bramley & Lucas 2025 preprint.pdf"
+    code_and_data="https://osf.io/nsfx6/"
+>}}
+
+{{< publication 
     title="Plural causes" 
     authors="C. Konuk, T. Quillien, S. Mascarenhas" 
     journal="Pre-print" 
