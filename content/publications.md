@@ -16,6 +16,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     year="2025" 
     pdf="/Quillien Bramley & Lucas 2025 preprint.pdf"
     code_and_data="https://osf.io/nsfx6/"
+    thread="https://x.com/TadegQuillien/status/1877044920529146176"
 >}}
 
 {{< publication 
@@ -56,7 +57,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     title="Religious signaling and prosociality: a review of the literature"
     authors="S. Northover, T. Quillien, D. Conroy-Beam, A. Cohen"
     journal="Evolution and Human Behavior"
-    year="forthcoming"
+    year="2024"
     pdf="/Northover et al 2024.pdf"
 >}}
 
