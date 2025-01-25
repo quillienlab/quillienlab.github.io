@@ -39,15 +39,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     thread="https://x.com/TadegQuillien/status/1722311542878634218"
 >}}
 
-{{< publication 
-    title="People attribute purpose to autonomous vehicles when explaining their behavior" 
-    authors="B. Gyevnar, S. Droop, T. Quillien, S. Cohen, N. Bramley, C. Lucas, S. Albrecht" 
-    journal="Pre-print" 
-    year="2024" 
-    pdf="/Gyevnar et al 2024 preprint.pdf"
-    code_and_data="https://github.com/Stephaniedroop/AV_Explanations/tree/main"
-    thread="https://x.com/TadegQuillien/status/1769772057565278381"
->}}
+
 
 
 ## Journal publications
@@ -202,6 +194,16 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
 >}}
 
 ## Peer-reviewed conference proceedings
+
+{{< publication 
+    title="People attribute purpose to autonomous vehicles when explaining their behavior" 
+    authors="B. Gyevnar, S. Droop, T. Quillien, S. Cohen, N. Bramley, C. Lucas, S. Albrecht" 
+    journal="Proceedings of the CHI Conference on Human Factors in Computing Systems" 
+    year="conditionally accepted" 
+    pdf="/Gyevnar et al 2024 preprint.pdf"
+    code_and_data="https://github.com/Stephaniedroop/AV_Explanations/tree/main"
+    thread="https://x.com/TadegQuillien/status/1769772057565278381"
+>}}
 
 {{< publication 
     title="Rationally uncertain: investigating deviations from Explaining Away and Screening Off in causal reasoning" 
