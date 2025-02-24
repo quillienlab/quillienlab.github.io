@@ -199,8 +199,8 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     title="People attribute purpose to autonomous vehicles when explaining their behavior" 
     authors="B. Gyevnar, S. Droop, T. Quillien, S. Cohen, N. Bramley, C. Lucas, S. Albrecht" 
     journal="Proceedings of the CHI Conference on Human Factors in Computing Systems" 
-    year="conditionally accepted" 
-    pdf="/Gyevnar et al 2024 preprint.pdf"
+    year="forthcoming" 
+    pdf="/Gyevnar et al 2025.pdf"
     code_and_data="https://github.com/Stephaniedroop/AV_Explanations/tree/main"
     thread="https://x.com/TadegQuillien/status/1769772057565278381"
 >}}
@@ -281,6 +281,15 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
 >}}
 
 ## Book chapters / commentaries
+
+{{< publication 
+    title="A counterfactual explanation for recency effects in double prevention scenarios: commentary on Thanawala & Erb (2024)" 
+    authors="T. Quillien, K. O'Neill, P. Henne" 
+    journal="Cognition" 
+    year="conditionally accepted" 
+    pdf="/Quillien O'Neill & Henne 2025.pdf"
+    target="https://www.sciencedirect.com/science/article/pii/S0010027724000726?via%3Dihub"
+>}}
 
 {{< publication 
     title="The social sciences need more than integrative experimental design; we need better theories" 
