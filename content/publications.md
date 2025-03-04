@@ -280,13 +280,13 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     data="https://osf.io/en9uy/?view_only=2c863ea186214157a52daf483fcb2ab9"
 >}}
 
-## Book chapters / commentaries
+## Commentaries / book chapters
 
 {{< publication 
     title="A counterfactual explanation for recency effects in double prevention scenarios: commentary on Thanawala & Erb (2024)" 
     authors="T. Quillien, K. O'Neill, P. Henne" 
     journal="Cognition" 
-    year="conditionally accepted" 
+    year="forthcoming" 
     pdf="/Quillien O'Neill & Henne 2025.pdf"
     target="https://www.sciencedirect.com/science/article/pii/S0010027724000726?via%3Dihub"
 >}}
