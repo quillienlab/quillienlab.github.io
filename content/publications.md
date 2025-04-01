@@ -10,6 +10,16 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
 ## Preprints
 
 {{< publication 
+    title="Factive mindreading reflects the optimal use of limited cognitive resources" 
+    authors="T. Quillien, M. Taylor-Davies" 
+    journal="Pre-print" 
+    year="2025" 
+    pdf="/Quillien & Taylor-Davies 2025 preprint.pdf"
+    code_and_data="https://osf.io/y6jz5/files/osfstorage?view_only=4fd27e8e3007470089068e82c983bd34"
+    thread="https://x.com/TadegQuillien/status/1906743544255070281"
+>}}
+
+{{< publication 
     title="Productive causation and compositionality" 
     authors="T. Quillien, N. Bramley, C. Lucas" 
     journal="Pre-print" 
