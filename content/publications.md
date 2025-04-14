@@ -205,6 +205,36 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
 
 ## Peer-reviewed conference proceedings
 
+
+{{< publication 
+    title="Norms moderate causal judgments in cases of double prevention" 
+    authors="K. O'Neill, P. Henne, T. Quillien, T. Icard, F. De Brigard" 
+    journal="Proceedings of the Cognitive Science Society" 
+    year="forthcoming" 
+>}}
+
+{{< publication 
+    title="An information-bottleneck view of social stereotype use" 
+    authors="M. Taylor-Davies, T. Quillien" 
+    journal="Proceedings of the Cognitive Science Society" 
+    year="forthcoming" 
+>}}
+
+{{< publication 
+    title="Exploring the intuitive theory of empathy" 
+    authors="M. Horner, T. Quillien, A. Moore" 
+    journal="Proceedings of the Cognitive Science Society" 
+    year="forthcoming" 
+>}}
+
+{{< publication 
+    title="Unifying inference and selection in singular causal explanation" 
+    authors="S. Droop, T. Quillien, N. Bramley" 
+    journal="Proceedings of the Cognitive Science Society" 
+    year="forthcoming" 
+>}}
+
+
 {{< publication 
     title="People attribute purpose to autonomous vehicles when explaining their behavior" 
     authors="B. Gyevnar, S. Droop, T. Quillien, S. Cohen, N. Bramley, C. Lucas, S. Albrecht" 
