@@ -15,7 +15,7 @@ Code and data from published work are available next to the relevant [publicatio
 
 [Cognition Computation and Development lab](https://ccdedinburgh.uk/)
 
-[Zhao lab](https://zhaobn.github.io/) (opens January 2025)
+[Zhao lab](https://zhaobn.github.io/)
 
 ## Agent-based models
 
