@@ -3,7 +3,7 @@ title: "People"
 description: "list of people"
 ---
 # People
-We are looking to hire graduate students for this admission cycle (2024-2025). If interested, please contact Tadeg with some information about your research interests and background.
+We are looking to hire graduate students for the forthcoming admission cycle (2025-2026). If interested, please contact Tadeg with some information about your research interests, background, and why you think the lab might be a good fit.
 
 {{< bio name="Tadeg Quillien" title="Principal Investigator" image="/Quillien_copenhagen.jpg" alt="tadeg_quillien" width="200" contact="tadeg.quillien AT gmail.com" scholar="https://scholar.google.com/citations?user=7h0VM_kAAAAJ" >}}
 
