@@ -225,6 +225,8 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     authors="M. Horner, T. Quillien, A. Moore" 
     journal="Proceedings of the Cognitive Science Society" 
     pdf="/Horner et al 2025.pdf"
+    code_and_data="https://osf.io/r7pmj/"
+    thread="https://bsky.app/profile/tadegquillien.bsky.social/post/3lnxn5sbmbc2c"
     year="forthcoming" 
 >}}
 
