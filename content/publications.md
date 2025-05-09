@@ -238,7 +238,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     journal="Proceedings of the Cognitive Science Society" 
     year="forthcoming" 
     pdf="/Droop Quillien & Bramley 2025.pdf"
-    code_and_data:"https://osf.io/3jh5n/?view_only=5aaf50acc6ed4c67b26d9bfdef939049"
+    code_and_data="https://osf.io/3jh5n/?view_only=5aaf50acc6ed4c67b26d9bfdef939049"
 >}}
 
 
