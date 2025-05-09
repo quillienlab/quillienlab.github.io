@@ -211,6 +211,8 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     authors="K. O'Neill, P. Henne, T. Quillien, T. Icard, F. De Brigard" 
     journal="Proceedings of the Cognitive Science Society" 
     year="forthcoming" 
+    pdf="O'Neill et al 2025"
+    code_and_data="https://osf.io/ntpjg/?view_only=8cfce56ef84644aab217c7f1349449e2"
 >}}
 
 {{< publication 
@@ -235,6 +237,8 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     authors="S. Droop, T. Quillien, N. Bramley" 
     journal="Proceedings of the Cognitive Science Society" 
     year="forthcoming" 
+    pdf="/Droop Quillien & Bramley 2025.pdf"
+    code_and_data:"https://osf.io/3jh5n/?view_only=5aaf50acc6ed4c67b26d9bfdef939049"
 >}}
 
 
