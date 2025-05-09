@@ -209,9 +209,9 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
 {{< publication 
     title="Norms moderate causal judgments in cases of double prevention" 
     authors="K. O'Neill, P. Henne, T. Quillien, T. Icard, F. De Brigard" 
-    journal="proceedings of the Cognitive Science Society" 
+    journal="p4oceedings of the Cognitive Science Society" 
     year="forthcoming" 
-    pdf="O'Neill et al 2025.pdf"
+    pdf="Oneill et al 2025.pdf"
     code_and_data="https://osf.io/ntpjg/?view_only=8cfce56ef84644aab217c7f1349449e2"
 >}}
 
