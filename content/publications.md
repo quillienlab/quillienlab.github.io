@@ -221,7 +221,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     journal="Proceedings of the Cognitive Science Society" 
     year="forthcoming" 
     pdf="/Taylor-Davies & Quillien 2025.pdf"
-    code_and_data="https://github.com/maxtaylordavies/ib-stereotyping"
+    code="https://github.com/maxtaylordavies/ib-stereotyping"
 >}}
 
 {{< publication 
