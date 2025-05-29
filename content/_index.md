@@ -33,6 +33,16 @@ We draw on the insights of several different fields, including:
 ## Selected publications (see full list [here](/publications))
 
 {{< publication 
+    title="Lossy encoding of distributions in judgment under uncertainty" 
+    authors="T. Quillien, N. Bramley, C. Lucas" 
+    journal="Cognitive Psychology" 
+    year="forthcoming" 
+    pdf="/Quillien Bramley & Lucas 2025.pdf"
+    code_and_data="https://osf.io/wz649/"
+    thread="https://x.com/TadegQuillien/status/1722311542878634218"
+>}}
+
+{{< publication 
     title="Counterfactuals and the logic of causal selection" 
     authors="T. Quillien, C. Lucas" 
     journal="Psychological Review" 
