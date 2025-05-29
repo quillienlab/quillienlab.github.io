@@ -53,6 +53,17 @@ We draw on the insights of several different fields, including:
 >}}
 
 {{< publication 
+    title="Rational inferences about social valuation" 
+    authors="T. Quillien, J. Tooby, L. Cosmides" 
+    journal="Cognition" 
+    year="2023" 
+    pdf="/Quillien Tooby and Cosmides 2023.pdf"
+    code_and_data="https://osf.io/3syce/?view_only=d5f639b7bda84962a72b83baa484b797"
+    SI="https://osf.io/4axh5?view_only=d5f639b7bda84962a72b83baa484b797"
+    thread="https://twitter.com/TadegQuillien/status/1649408388697038849"
+>}}
+
+{{< publication 
     title="A simple definition of 'intentionally'" 
     authors="T. Quillien, T. German" 
     journal="Cognition" 
