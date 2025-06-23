@@ -55,6 +55,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     pdf="/Quillien Bramley & Lucas 2025.pdf"
     code_and_data="https://osf.io/wz649/"
     thread="https://x.com/TadegQuillien/status/1722311542878634218"
+    blog=https:"//xphi.net/2025/06/03/experimenting-with-guesses/"
 >}}
 
 {{< publication
