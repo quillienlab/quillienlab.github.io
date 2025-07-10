@@ -51,7 +51,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     title="Lossy encoding of distributions in judgment under uncertainty" 
     authors="T. Quillien, N. Bramley, C. Lucas" 
     journal="Cognitive Psychology" 
-    year="forthcoming" 
+    year="2025" 
     pdf="/Quillien Bramley & Lucas 2025.pdf"
     code_and_data="https://osf.io/wz649/"
     thread="https://x.com/TadegQuillien/status/1722311542878634218"

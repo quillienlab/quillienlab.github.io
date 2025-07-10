@@ -12,12 +12,9 @@ We study how the mind works, using a combination of psychology experiments and c
 Here are some of the things we are interested in:
 
 
-- **Causal explanation**: how do people efficiently communicate the content of their causal models of the world? How do they assign causal responsibility? One of the main outputs of this line of research has been a theory of how people judge the relative causal responsibility of the different factors that led to an event. See [here](/Quillien%202020%20actual%20causation.pdf) for a short paper, [here](/Quillien%20&%20Lucas%202023.pdf) for a much longer paper, and [here](/Quillien%20&%20Barlev%202022.pdf) for a real-world case study.
+- **Causal reasoning**: how do people use causal models to reason about the world? How do they assign causal responsibility? One of the main outputs of this line of research has been a theory of how people judge the relative causal responsibility of the different factors that led to an event. See [here](/Quillien%202020%20actual%20causation.pdf) for a short paper, [here](/Quillien%20&%20Lucas%202023.pdf) for a much longer paper, and [here](/Quillien%20&%20Barlev%202022.pdf) for a real-world case study. We also explore how causal information informs [categorization](/Marchant et al 2023.pdf).
 
-- **Theory of mind**: how do people predict and explain the behavior of other agents? We have built computational models of how people infer the weight that others put on their welfare (see [here](/Quillien%20Tooby%20and%20Cosmides%202023.pdf) and [here](/Quillien%202023.pdf)), and proposed a new theory of the folk concept of intentional action (see [here](/Quillien%20&%20German%202021.pdf)).
-
-- **The role of causality in conceptual structure**: concepts are in part defined by representations of causal relationships; for example it is part of the concept 'bird' that birds can fly because they have wings. See [here](/Quillien%202018.pdf) or [here](/Marchant%20et%20al%202023.pdf) for general considerations, and [here](/Quillien%20&%20German%202021.pdf) for a case study.
-
+- **Theory of mind**: how do people predict and explain the behavior of other agents? We have built computational models of how people infer the weight that others put on their welfare (see [here](/Quillien%20Tooby%20and%20Cosmides%202023.pdf) and [here](/Quillien%202023.pdf)), and proposed a new theory of the folk concept of intentional action (see [here](/Quillien%20&%20German%202021.pdf)). More recently we have been exploring how theory of mind can work efficiently in the face of cognitive resources limitations (see [here](\Quillien & Taylor-Davies 2025 preprint.pdf))
 
 {{</textpic>}}
 
@@ -33,10 +30,19 @@ We draw on the insights of several different fields, including:
 ## Selected publications (see full list [here](/publications))
 
 {{< publication 
+    title="An information-bottleneck view of social stereotype use" 
+    authors="M. Taylor-Davies, T. Quillien" 
+    journal="Proceedings of the Cognitive Science Society" 
+    year="forthcoming" 
+    pdf="/Taylor-Davies & Quillien 2025.pdf"
+    code="https://github.com/maxtaylordavies/ib-stereotyping"
+>}}
+
+{{< publication 
     title="Lossy encoding of distributions in judgment under uncertainty" 
     authors="T. Quillien, N. Bramley, C. Lucas" 
     journal="Cognitive Psychology" 
-    year="forthcoming" 
+    year="2025" 
     pdf="/Quillien Bramley & Lucas 2025.pdf"
     code_and_data="https://osf.io/wz649/"
     thread="https://x.com/TadegQuillien/status/1722311542878634218"
