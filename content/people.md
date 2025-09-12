@@ -17,6 +17,14 @@ We are looking to hire graduate students for the forthcoming admission cycle (20
 
 I completed my undergraduate studies in Psychology, with a minor in the History of Consciousness, at the University of California Santa Cruz. I then went on to complete a MSc in Psychological Research at the University of Edinburgh. I am now undertaking a PhD in Psychology at the University of Edinburgh, supervised by Adam Moore and Tadeg Quillien.
 
+{{< /bio >}}
+
+ {{< bio name="Torrey Snyder" title="Graduate student" image="/torrey_snyder.png" alt="torrey_snyder" width="200" contact="t.a.snyder AT sms.ed.ac.uk" website="https://torreysnyder.github.io/" >}} 
+
+My research at the intersection of computational cognitive science and explainable AI investigates the alignment of causal reasoning in humans and language models. My work explores whether language models faithfully replicate human judgments in causal reasoning tasks, and I am particularly interested in how causality is attributed in cases of overdetermination. My research examines the mechanisms underlying causal reasoning in language models by implementing activation patching techniques from mechanistic interpretability to identify circuits that are involved in causal reasoning. I am also interested in exploring how causal knowledge is communicated, as modeled via multi-agent RL.
+
+I received my Master's degree in Brain & Cognitive Sciences at the University of Amsterdam. During my MSc research, I investigated the representational alignment between language models and neural activity in the brain, as measured via fMRI. Prior to that, I completed my Bachelor's degree in Computational Neuroscience at the University of Southern California. I am now a PhD student at the University of Edinburgh, supervised by Tadeg Quillien.
+
  {{< /bio >}}
 
 {{< bio name="Stephanie Droop" title="Affiliated graduate student" image="/stephanie_droop.jpg" alt="stephanie_droop" width="200" contact="s0342840 AT sms.ed.ac.uk" scholar="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=stephanie+droop&btnG=">}}
