@@ -27,7 +27,7 @@ I received my Master's degree in Brain & Cognitive Sciences at the University of
 
  {{< /bio >}}
 
-{{< bio name="Stephanie Droop" title="Affiliated graduate student" image="/stephanie_droop.jpg" alt="stephanie_droop" width="200" contact="s0342840 AT sms.ed.ac.uk" scholar="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=stephanie+droop&btnG=">}}
+{{< bio name="Stephanie Droop" title="Affiliated graduate student" image="/stephanie_droop.jpg" alt="stephanie_droop" width="200" contact="s0342840 AT sms.ed.ac.uk" scholar="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=stephanie+droop&btnG=" website="https://stephaniedroop.com/">}}
 
  My research questions tackle how mental representation and abstraction work. What is gained and what is lost when we conceptualise or formalise? How do we choose the best level of detail for an explanation?
  
@@ -42,7 +42,7 @@ I received my Master's degree in Brain & Cognitive Sciences at the University of
  {{< /bio >}}
 
 {{< bio name="Nicolas Navarre" title="Affiliated graduate student" image="/nicolas_navarre.jpg" alt="nicolas_navarre" width="200" 
- contact="n.s.navarre AT sms.ed.ac.uk" >}} 
+ contact="n.s.navarre AT sms.ed.ac.uk" website="https://web-risc.ens.fr/~nnavarre/">}} 
 
  I am interested in studying human learning by modeling the mental representations of causality and concepts more broadly. I aim to make use of theories from natural language semantics to inform the class of mental representations used in causal inference and hypothesis formation. 
  
