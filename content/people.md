@@ -19,7 +19,7 @@ I completed my undergraduate studies in Psychology, with a minor in the History 
 
 {{< /bio >}}
 
- {{< bio name="Torrey Snyder" title="Graduate student" image="/torrey_snyder.png" alt="torrey_snyder" width="200" contact="t.a.snyder AT sms.ed.ac.uk" website="https://torreysnyder.github.io/" >}} 
+ {{< bio name="Torrey Snyder" title="Graduate student" image="/torrey_snyder.jpg" alt="torrey_snyder" width="200" contact="t.a.snyder AT sms.ed.ac.uk" website="https://torreysnyder.github.io/" >}} 
 
 My research at the intersection of computational cognitive science and explainable AI investigates the alignment of causal reasoning in humans and language models. My work explores whether language models faithfully replicate human judgments in causal reasoning tasks, and I am particularly interested in how causality is attributed in cases of overdetermination. My research examines the mechanisms underlying causal reasoning in language models by implementing activation patching techniques from mechanistic interpretability to identify circuits that are involved in causal reasoning. I am also interested in exploring how causal knowledge is communicated, as modeled via multi-agent RL.
 
