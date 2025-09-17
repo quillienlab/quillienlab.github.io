@@ -335,12 +335,23 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
 ## Commentaries / book chapters
 
 {{< publication 
+    title="Intention judgments are not a reliable measure of intuitive preferences (comment on Gervais et al. 2025)" 
+    authors="T. Quillien" 
+    journal="Proceedings of the National Academy of Sciences" 
+    year="2025" 
+    pdf="/Quillien 2025 comment on Gervais.pdf"
+    target="https://www.pnas.org/doi/10.1073/pnas.2404720122"
+    reply="https://www.pnas.org/doi/10.1073/pnas.2518353122"
+>}}
+
+{{< publication 
     title="A counterfactual explanation for recency effects in double prevention scenarios: commentary on Thanawala & Erb (2024)" 
     authors="T. Quillien, K. O'Neill, P. Henne" 
     journal="Cognition" 
-    year="forthcoming" 
+    year="2025" 
     pdf="/Quillien O'Neill & Henne 2025.pdf"
     target="https://www.sciencedirect.com/science/article/pii/S0010027724000726?via%3Dihub"
+    reply="https://www.sciencedirect.com/science/article/abs/pii/S001002772500174X"
 >}}
 
 {{< publication 
