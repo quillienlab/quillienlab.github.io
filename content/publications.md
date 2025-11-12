@@ -39,6 +39,14 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     thread="https://x.com/TadegQuillien/status/1844470355551007062"
 >}}
 
+{{< publication 
+    title="Who knows what? Bayesian competence inference guides knowledge attribution and information search" 
+    authors="M. Mercier, O. Morin, H. Mercier, T. Quillien" 
+    journal="Pre-print" 
+    year="2025" 
+    pdf="/Mercier et al preprint.pdf"    
+>}}
+
 
 
 
