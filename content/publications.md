@@ -29,15 +29,6 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     thread="https://x.com/TadegQuillien/status/1877044920529146176"
 >}}
 
-{{< publication 
-    title="Plural causes" 
-    authors="C. Konuk, T. Quillien, S. Mascarenhas" 
-    journal="Pre-print" 
-    year="2024" 
-    pdf="/Konuk Quillien & Mascarenhas 2024 preprint.pdf"
-    code_and_data="https://osf.io/43m5d/?view_only=3d26a80b8e394fa9ad7792a690de8fe6"
-    thread="https://x.com/TadegQuillien/status/1844470355551007062"
->}}
 
 {{< publication 
     title="Who knows what? Bayesian competence inference guides knowledge attribution and information search" 
@@ -54,6 +45,15 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
 
 ## Journal publications
 
+{{< publication 
+    title="Plural causes" 
+    authors="C. Konuk, T. Quillien, S. Mascarenhas" 
+    journal="Open Mind" 
+    year="forthcoming" 
+    pdf="/Konuk et al 2026.pdf"
+    code_and_data="https://osf.io/43m5d/?view_only=3d26a80b8e394fa9ad7792a690de8fe6"
+    thread="https://x.com/TadegQuillien/status/1844470355551007062"
+>}}
 
 {{< publication 
     title="Lossy encoding of distributions in judgment under uncertainty" 
@@ -221,7 +221,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     title="Norms moderate causal judgments in cases of double prevention" 
     authors="K. O'Neill, P. Henne, T. Quillien, T. Icard, F. De Brigard" 
     journal="Proceedings of the Cognitive Science Society" 
-    year="forthcoming" 
+    year="2025" 
     pdf="/O'Neill et al 2025.pdf"
     code_and_data="https://osf.io/ntpjg/?view_only=8cfce56ef84644aab217c7f1349449e2"
 >}}
@@ -230,7 +230,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     title="An information-bottleneck view of social stereotype use" 
     authors="M. Taylor-Davies, T. Quillien" 
     journal="Proceedings of the Cognitive Science Society" 
-    year="forthcoming" 
+    year="2025" 
     pdf="/Taylor-Davies & Quillien 2025.pdf"
     code="https://github.com/maxtaylordavies/ib-stereotyping"
 >}}
@@ -242,14 +242,14 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     pdf="/Horner et al 2025.pdf"
     code_and_data="https://osf.io/r7pmj/"
     thread="https://bsky.app/profile/tadegquillien.bsky.social/post/3lnxn5sbmbc2c"
-    year="forthcoming" 
+    year="2025" 
 >}}
 
 {{< publication 
     title="Unifying inference and selection in singular causal explanation" 
     authors="S. Droop, T. Quillien, N. Bramley" 
     journal="Proceedings of the Cognitive Science Society" 
-    year="forthcoming" 
+    year="2025" 
     pdf="/Droop Quillien & Bramley 2025.pdf"
     code_and_data="https://osf.io/3jh5n/?view_only=5aaf50acc6ed4c67b26d9bfdef939049"
 >}}
@@ -259,7 +259,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     title="People attribute purpose to autonomous vehicles when explaining their behavior" 
     authors="B. Gyevnar, S. Droop, T. Quillien, S. Cohen, N. Bramley, C. Lucas, S. Albrecht" 
     journal="Proceedings of the CHI Conference on Human Factors in Computing Systems" 
-    year="forthcoming" 
+    year="2025" 
     pdf="/Gyevnar et al 2025.pdf"
     code_and_data="https://github.com/Stephaniedroop/AV_Explanations/tree/main"
     thread="https://x.com/TadegQuillien/status/1769772057565278381"
