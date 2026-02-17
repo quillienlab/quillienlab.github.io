@@ -33,7 +33,7 @@ We draw on the insights of several different fields, including:
     title="An information-bottleneck view of social stereotype use" 
     authors="M. Taylor-Davies, T. Quillien" 
     journal="Proceedings of the Cognitive Science Society" 
-    year="forthcoming" 
+    year="2025" 
     pdf="/Taylor-Davies & Quillien 2025.pdf"
     code="https://github.com/maxtaylordavies/ib-stereotyping"
 >}}
