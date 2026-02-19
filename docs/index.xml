@@ -27,7 +27,14 @@
       <link>https://quillienlab.github.io/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://quillienlab.github.io/resources/</guid>
-      <description>Code and data from papers Code and data from published work are available next to the relevant publications. If a link is broken, or you have trouble interpreting the data / reproducing an analysis / running a model, please feel free to reach out to tadeg.quillien AT gmail.com.&#xA;More computational cognitive science / causality research at Edinburgh Bramley lab&#xA;Lucas lab&#xA;Dan Lassiter&#xA;Cognition Computation and Development lab&#xA;Zhao lab</description>
+      <description>Code and data from papers Code and data from published work are available next to the relevant publications.&#xA;More computational cognitive science / causality research at Edinburgh Bramley lab&#xA;Lucas lab&#xA;Dan Lassiter&#xA;Cognition Computation and Development lab&#xA;Zhao lab&#xA;R code for counterfactual models of causal judgment This Github repository contains R scripts for computing predictions for two computational models of causal judgment (the Necessity-Sufficiency and Counterfactual Effect Size models).</description>
+    </item>
+    <item>
+      <title>Superseded conference publications</title>
+      <link>https://quillienlab.github.io/superseded/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://quillienlab.github.io/superseded/</guid>
+      <description>Conference papers superseded by a journal paper (standard disclaimer: PDFs are available for non-commercial information purposes only.)&#xA;If a link is broken, or you have trouble interpreting the data / reproducing an analysis / running a model, please feel free to reach out to tadeg.quillien AT gmail.com.&#xA;Plural causes in causal judgment&#xA;C. Konuk, M. Goodale, T. Quillien, S. Mascarenhas&#xA;Proceedings of the Cognitive Science Society, 2023 [pdf]&#xD;[code_and_data]&#xD;[journal_paper]&#xD;[thread]&#xD;The logic of guesses: how people communicate probabilistic information</description>
     </item>
   </channel>
 </rss>

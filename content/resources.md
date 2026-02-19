@@ -4,7 +4,7 @@ description: "resources"
 ---
 
 ## Code and data from papers
-Code and data from published work are available next to the relevant [publications](/publications/). If a link is broken, or you have trouble interpreting the data / reproducing an analysis / running a model, please feel free to reach out to tadeg.quillien AT gmail.com.
+Code and data from published work are available next to the relevant [publications](/publications/). 
 
 ## More computational cognitive science / causality research at Edinburgh
 [Bramley lab](https://www.bramleylab.ppls.ed.ac.uk/)
@@ -16,6 +16,10 @@ Code and data from published work are available next to the relevant [publicatio
 [Cognition Computation and Development lab](https://ccdedinburgh.uk/)
 
 [Zhao lab](https://zhaobn.github.io/)
+
+## R code for counterfactual models of causal judgment
+
+This [Github repository](https://github.com/tadegquillien/causal-judgment/tree/main) contains R scripts for computing predictions for two computational models of causal judgment (the Necessity-Sufficiency and Counterfactual Effect Size models). Note: this is ongoing work.
 
 ## Agent-based models
 

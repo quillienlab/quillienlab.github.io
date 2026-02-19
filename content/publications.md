@@ -53,6 +53,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     pdf="/Konuk et al 2026.pdf"
     code_and_data="https://osf.io/43m5d/?view_only=3d26a80b8e394fa9ad7792a690de8fe6"
     thread="https://x.com/TadegQuillien/status/1844470355551007062"
+    cogsci="/Konuk et al 2023.pdf"
 >}}
 
 {{< publication 
@@ -64,6 +65,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     code_and_data="https://osf.io/wz649/"
     thread="https://x.com/TadegQuillien/status/1722311542878634218"
     blog="https://xphi.net/2025/06/03/experimenting-with-guesses/"
+    cogsci="/Quillien & Lucas 2022.pdf"
 >}}
 
 {{< publication
@@ -216,6 +218,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
 
 ## Peer-reviewed conference proceedings
 
+(Conference papers that have been superseded by a journal paper are available [here](/superseded).)
 
 {{< publication 
     title="Norms moderate causal judgments in cases of double prevention" 
@@ -274,15 +277,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     code="https://osf.io/62frz/?view_only=def10df12eb143ef9b83d6061b5ecd09"
 >}}
 
-{{< publication 
-    title="Plural causes in causal judgment" 
-    authors="C. Konuk, M. Goodale, T. Quillien, S. Mascarenhas" 
-    journal="Proceedings of the Cognitive Science Society" 
-    year="2023" 
-    pdf="/Konuk et al 2023.pdf"
-    code_and_data="https://osf.io/3th7a/"
-    thread="https://twitter.com/TadegQuillien/status/1660671866124500997"
->}}
+
 
 {{< publication 
     title="Uncertainty can explain apparent mistakes in causal reasoning" 
@@ -320,15 +315,6 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     pdf="/O'Neill, Quillien & Henne 2022.pdf"
 >}}
 
-{{< publication 
-    title="The logic of guesses: how people communicate probabilistic information" 
-    authors="T. Quillien, C. Lucas" 
-    journal="Proceedings of the Cognitive Science Society" 
-    year="2022" 
-    pdf="/Quillien & Lucas 2022.pdf"
-    code_and_data="https://osf.io/wfgya/"
-    thread="https://twitter.com/TadegQuillien/status/1527692890209656833?s=20&t=z4ju4Ancp_jikHxub4HmwA"
->}}
 
 {{< publication 
     title="Dissecting causal asymmetries in inductive generalization" 
