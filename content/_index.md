@@ -30,12 +30,13 @@ We draw on the insights of several different fields, including:
 ## Selected publications (see full list [here](/publications))
 
 {{< publication 
-    title="An information-bottleneck view of social stereotype use" 
-    authors="M. Taylor-Davies, T. Quillien" 
-    journal="Proceedings of the Cognitive Science Society" 
-    year="2025" 
-    pdf="/Taylor-Davies & Quillien 2025.pdf"
-    code="https://github.com/maxtaylordavies/ib-stereotyping"
+    title="Factive mindreading reflects the optimal use of limited cognitive resources" 
+    authors="T. Quillien, M. Taylor-Davies" 
+    journal="Proceedings of the Royal Society B" 
+    year="forthcoming" 
+    pdf="/Quillien & Taylor-Davies 2026.pdf"
+    code_and_data="https://osf.io/y6jz5/files/osfstorage?view_only=4fd27e8e3007470089068e82c983bd34"
+    thread="https://x.com/TadegQuillien/status/1906743544255070281"
 >}}
 
 {{< publication 
