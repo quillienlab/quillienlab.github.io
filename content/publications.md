@@ -39,7 +39,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     journal="Proceedings of the Royal Society B" 
     year="forthcoming" 
     pdf="/Quillien & Taylor-Davies 2026.pdf"
-    code_and_data="https://osf.io/y6jz5/files/osfstorage?view_only=4fd27e8e3007470089068e82c983bd34"
+    code_and_data="https://osf.io/y6jz5"
     thread="https://x.com/TadegQuillien/status/1906743544255070281"
 >}}
 

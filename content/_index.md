@@ -14,7 +14,7 @@ Here are some of the things we are interested in:
 
 - **Causal reasoning**: how do people use causal models to reason about the world? How do they assign causal responsibility? One of the main outputs of this line of research has been a theory of how people judge the relative causal responsibility of the different factors that led to an event. See [here](/Quillien%202020%20actual%20causation.pdf) for a short paper, [here](/Quillien%20&%20Lucas%202023.pdf) for a much longer paper, and [here](/Quillien%20&%20Barlev%202022.pdf) for a real-world case study. Other lines of research explore for example how causal information contributes to [categorization](/Marchant%20et%20al%202023.pdf) and what makes some [counterfactual possibilities](/Quillien%20et%20al%202023%20counterfactuals.pdf) more plausible than others.
 
-- **Theory of mind**: how do people predict and explain the behavior of other agents? We have built computational models of how people infer the weight that others put on their welfare (see [here](/Quillien%20Tooby%20and%20Cosmides%202023.pdf) and [here](/Quillien%202023.pdf)), and proposed a new theory of the folk concept of [intentional action](/Quillien%20&%20German%202021.pdf). More recently we have been exploring how theory of mind can work [efficiently](/Quillien%20&%20Taylor-Davies%202025%20preprint.pdf) in the face of cognitive resource constraintss.
+- **Theory of mind**: how do people predict and explain the behavior of other agents? We have built computational models of how people infer the weight that others put on their welfare (see [here](/Quillien%20Tooby%20and%20Cosmides%202023.pdf) and [here](/Quillien%202023.pdf)), and proposed a new theory of the folk concept of [intentional action](/Quillien%20&%20German%202021.pdf). More recently we have been exploring how theory of mind can work [efficiently](/Quillien%20&%20Taylor-Davies%202026.pdf) in the face of cognitive resource constraintss.
 
 {{</textpic>}}
 
@@ -35,7 +35,7 @@ We draw on the insights of several different fields, including:
     journal="Proceedings of the Royal Society B" 
     year="forthcoming" 
     pdf="/Quillien & Taylor-Davies 2026.pdf"
-    code_and_data="https://osf.io/y6jz5/files/osfstorage?view_only=4fd27e8e3007470089068e82c983bd34"
+    code_and_data="https://osf.io/y6jz5"
     thread="https://x.com/TadegQuillien/status/1906743544255070281"
 >}}
 
