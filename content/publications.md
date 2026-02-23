@@ -39,6 +39,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     journal="Proceedings of the Royal Society B" 
     year="forthcoming" 
     pdf="/Quillien & Taylor-Davies 2026.pdf"
+    SI="/Quillien & Taylor-Davies 2026 SI.pdf"
     code_and_data="https://osf.io/y6jz5"
     thread="https://x.com/TadegQuillien/status/1906743544255070281"
 >}}
@@ -101,6 +102,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     journal="Psychological Review" 
     year="2023" 
     pdf="/Quillien & Lucas 2023.pdf" 
+    SI="/Quillien & Lucas 2023 SI.pdf"
     code_and_data="https://osf.io/h42f7/"
     thread="https://twitter.com/TadegQuillien/status/1536385324682723329"
 >}}
