@@ -6,6 +6,11 @@ description: "resources"
 ## Code and data from papers
 Code and data from published work are available next to the relevant [publications](/publications/). 
 
+
+## R code for counterfactual models of causal judgment
+
+This [Github repository](https://github.com/tadegquillien/causal-judgment/tree/main) contains R scripts for computing predictions for two computational models of causal judgment (the Necessity-Sufficiency and Counterfactual Effect Size models). Note: this is ongoing work and will be updated in the hopefully-not-too-distant future.
+
 ## More computational cognitive science / causality research at Edinburgh
 [Bramley lab](https://www.bramleylab.ppls.ed.ac.uk/)
 
@@ -17,9 +22,10 @@ Code and data from published work are available next to the relevant [publicatio
 
 [Zhao lab](https://zhaobn.github.io/)
 
-## R code for counterfactual models of causal judgment
+## Edinburgh cognitive science conference
 
-This [Github repository](https://github.com/tadegquillien/causal-judgment/tree/main) contains R scripts for computing predictions for two computational models of causal judgment (the Necessity-Sufficiency and Counterfactual Effect Size models). Note: this is ongoing work.
+This small informal [workshop](https://ccdedinburgh.uk/edicogsci) brings together cognitive scientists from the UK and beyond every year in June. We usually cap things off with a hike up Arthur's Seat.
+
 
 ## Agent-based models
 

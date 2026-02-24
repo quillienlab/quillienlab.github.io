@@ -9,11 +9,18 @@
     <copyright>Copyright © 2024, Tadeg Quillien.</copyright>
     <atom:link href="https://quillienlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>contact</title>
+      <link>https://quillienlab.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://quillienlab.github.io/contact/</guid>
+      <description>Contact You can contact Principal Investigator Tadeg Quillien at tadeg.quillien AT gmail.com, or tadeg.quillien AT ed.ac.uk.&#xA;If enquiring about potential PhD or postdoc opportunities, please include some information about your research interests and why you think the lab would be a good fit.</description>
+    </item>
+    <item>
       <title>People</title>
       <link>https://quillienlab.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://quillienlab.github.io/people/</guid>
-      <description>People We are looking to hire graduate students for the forthcoming admission cycle (2025-2026). If interested, please contact Tadeg with some information about your research interests, background, and why you think the lab might be a good fit.&#xA;Tadeg Quillien (Principal Investigator)&#xD;I am a chancellor&amp;rsquo;s fellow (research-focused faculty member) in the Psychology department at the University of Edinburgh. Before that, I was a postdoc with Chris Lucas and Neil Bramley (also at Edinburgh).</description>
+      <description>People We are looking to hire graduate students for the forthcoming admission cycle (2025-2026). If interested, please contact Tadeg with some information about your research interests, background, and why you think the lab might be a good fit.&#xA;Tadeg Quillien (Principal Investigator)&#xD;I am a chancellor&amp;rsquo;s fellow (research-focused faculty member) in the Psychology department at the University of Edinburgh, and an Associate Editor at Cognition. Before that I did a postdoc with Chris Lucas and Neil Bramley (also at Edinburgh).</description>
     </item>
     <item>
       <title>Publications</title>
@@ -27,7 +34,7 @@
       <link>https://quillienlab.github.io/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://quillienlab.github.io/resources/</guid>
-      <description>Code and data from papers Code and data from published work are available next to the relevant publications.&#xA;More computational cognitive science / causality research at Edinburgh Bramley lab&#xA;Lucas lab&#xA;Dan Lassiter&#xA;Cognition Computation and Development lab&#xA;Zhao lab&#xA;R code for counterfactual models of causal judgment This Github repository contains R scripts for computing predictions for two computational models of causal judgment (the Necessity-Sufficiency and Counterfactual Effect Size models).</description>
+      <description>Code and data from papers Code and data from published work are available next to the relevant publications.&#xA;R code for counterfactual models of causal judgment This Github repository contains R scripts for computing predictions for two computational models of causal judgment (the Necessity-Sufficiency and Counterfactual Effect Size models). Note: this is ongoing work and will be updated in the hopefully-not-too-distant future.&#xA;More computational cognitive science / causality research at Edinburgh Bramley lab</description>
     </item>
     <item>
       <title>Superseded conference publications</title>
