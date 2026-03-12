@@ -20,18 +20,17 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
 >}}
 
 
-{{< publication 
-    title="Who knows what? Bayesian competence inference guides knowledge attribution and information search" 
-    authors="M. Mercier, O. Morin, H. Mercier, T. Quillien" 
-    journal="Pre-print" 
-    year="2025" 
-    pdf="/Mercier et al preprint.pdf"    
->}}
-
-
 
 
 ## Journal publications
+
+{{< publication 
+    title="Who knows what? Bayesian competence inference guides knowledge attribution and information search" 
+    authors="M. Mercier, O. Morin, H. Mercier, T. Quillien" 
+    journal="Cognition" 
+    year="forthcoming" 
+    pdf="/Mercier et al preprint.pdf"    
+>}}
 
 {{< publication 
     title="Factive mindreading reflects the optimal use of limited cognitive resources" 
