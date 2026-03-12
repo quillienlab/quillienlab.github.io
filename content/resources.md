@@ -24,7 +24,7 @@ This [Github repository](https://github.com/tadegquillien/causal-judgment/tree/m
 
 ## Edinburgh cognitive science conference
 
-This small informal [workshop](https://ccdedinburgh.uk/edicogsci) brings together cognitive scientists from the UK and beyond every year in June. We usually cap things off with a hike up Arthur's Seat.
+This small informal [workshop](/conference/) brings together cognitive scientists from the UK and beyond every year in June. We usually cap things off with a hike up Arthur's Seat.
 
 
 ## Agent-based models
