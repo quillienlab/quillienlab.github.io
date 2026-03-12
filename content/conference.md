@@ -1,10 +1,10 @@
 ---
 title: "Edinburgh cognitive science conference"
-description: "List of publications"
+description: "Edinburgh cognitive science conference"
 ---
 # Edinburgh Cognitive Science Conference
 
-{{< image src="/arthursSeatPhoto.png" alt="alt_text" width="600" >}}
+{{< image src="/arthursSeatPhoto.png" alt="conference_photo" width="600" >}}
 
 
 This small informal workshop brings together cognitive scientists from the UK and beyond every year in June. We usually cap things off with a hike up Arthur’s Seat.
