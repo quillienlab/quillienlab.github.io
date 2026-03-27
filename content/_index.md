@@ -69,7 +69,7 @@ We draw on the insights of several different fields, including:
     year="2023" 
     pdf="/Quillien Tooby and Cosmides 2023.pdf"
     code_and_data="https://osf.io/3syce/?view_only=d5f639b7bda84962a72b83baa484b797"
-    SI="https://osf.io/4axh5?view_only=d5f639b7bda84962a72b83baa484b797"
+    SI="/Quillien Tooby and Cosmides 2023 SI.pdf"
     thread="https://twitter.com/TadegQuillien/status/1649408388697038849"
 >}}
 
@@ -80,7 +80,7 @@ We draw on the insights of several different fields, including:
     year="2021" 
     pdf="/Quillien & German 2021.pdf"
     code_and_data="https://osf.io/42x7h/"
-    SI="https://osf.io/dp5xr/"
+    SI="/Quillien & German 2021 SI.pdf"
     thread="https://twitter.com/TadegQuillien/status/1412825972995497992?s=20&t=JWC2i0u2A00kbgX0hryFlw"
 >}}
 
@@ -91,6 +91,6 @@ We draw on the insights of several different fields, including:
     year="2020" 
     pdf="/Quillien%202020%20actual%20causation.pdf" 
     code="https://osf.io/x98ug/"
-    SI="https://drive.google.com/file/d/1KcyMWDbF4aU-gK_4WcHV4nB5D592Zx2s/view?usp=sharing"
+    SI="/Quillien 2020 causal selection SI.pdf"
     media="https://medicalxpress.com/news/2020-12-psychologist-illuminates-humanity-fundamental-concepts.html"
 >}}

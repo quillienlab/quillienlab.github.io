@@ -29,7 +29,9 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     authors="M. Mercier, O. Morin, H. Mercier, T. Quillien" 
     journal="Cognition" 
     year="forthcoming" 
-    pdf="/Mercier et al preprint.pdf"    
+    pdf="/Mercier et al 2026.pdf"
+    SI="/Mercier et al 2026 SI.pdf"
+    code_and_data="https://osf.io/aecyr/files/github"    
 >}}
 
 {{< publication 
@@ -90,7 +92,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     year="2023" 
     pdf="/Quillien Tooby and Cosmides 2023.pdf"
     code_and_data="https://osf.io/3syce/?view_only=d5f639b7bda84962a72b83baa484b797"
-    SI="https://osf.io/4axh5?view_only=d5f639b7bda84962a72b83baa484b797"
+    SI="/Quillien Tooby and Cosmides 2023 SI.pdf"
     thread="https://twitter.com/TadegQuillien/status/1649408388697038849"
 >}}
 
@@ -113,7 +115,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     year="2023" 
     pdf="/Marchant et al 2023.pdf"
     code_and_data="https://osf.io/qh23f/"
-    SI="https://osf.io/ygjpq"
+    SI="/Marchant et al 2023 SI.pdf"
     thread="https://twitter.com/TadegQuillien/status/1617592429108166656"
 >}}
 
@@ -135,7 +137,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     pdf="/Quillien & Barlev 2022.pdf"
     code="https://osf.io/z4dbx/"
     data="https://osf.io/nz84k/"
-    SI="https://osf.io/6jgez/"
+    SI="/Quillien & Barlev 2022 SI.pdf"
     thread="https://twitter.com/TadegQuillien/status/1381994294312120320?s=20&t=MB9ZVJJHWuz7f_KVJGYwlw"
 >}}
 
@@ -146,7 +148,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     year="2021" 
     pdf="/Quillien & German 2021.pdf"
     code_and_data="https://osf.io/42x7h/"
-    SI="https://osf.io/dp5xr/"
+    SI="/Quillien & German 2021 SI.pdf"
     thread="https://twitter.com/TadegQuillien/status/1412825972995497992?s=20&t=JWC2i0u2A00kbgX0hryFlw"
 >}}
 
@@ -159,7 +161,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     year="2020" 
     pdf="/Quillien%202020%20actual%20causation.pdf" 
     code="https://osf.io/x98ug/"
-    SI="https://drive.google.com/file/d/1KcyMWDbF4aU-gK_4WcHV4nB5D592Zx2s/view?usp=sharing"
+    SI="/Quillien 2020 causal selection SI.pdf"
     media="https://medicalxpress.com/news/2020-12-psychologist-illuminates-humanity-fundamental-concepts.html"
 >}}
 
@@ -171,7 +173,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     pdf="/Quillien 2020 Evolution of Conditional and Unconditional Commitment.pdf"
     code="https://ars.els-cdn.com/content/image/1-s2.0-S002251932030059X-mmc2.txt"
     data="https://data.mendeley.com/datasets/pt69yc45cr/1"
-    SI="https://ars.els-cdn.com/content/image/1-s2.0-S002251932030059X-mmc1.pdf"
+    SI="/Quillien 2020 commitment SI.pdf"
     media="http://dailynexus.com/2020-03-31/better-together-the-evolution-of-commitment-and-altruism-in-relationships/"
     thread="https://twitter.com/TadegQuillien/status/1234587594354118657?s=20&t=dJ6HVQ8hjD2c9Fj0sD_5tw"
 >}}
@@ -325,7 +327,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     data="https://osf.io/en9uy/?view_only=2c863ea186214157a52daf483fcb2ab9"
 >}}
 
-## Commentaries / book chapters
+## Commentaries
 
 {{< publication 
     title="Intention judgments are not a reliable measure of intuitive preferences (comment on Gervais et al. 2025)" 
@@ -357,13 +359,6 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     reply="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/replies-to-commentaries-on-beyond-playing-20-questions-with-nature/AAF1E9FDF6BC304DFAE42B6C88ABECD2"
 >}}
 
-{{< publication 
-    title="Fostering values of fairness" 
-    authors="T. Quillien" 
-    journal="Encyclopedia of Evolutionary Psychological Science" 
-    year="2017" 
-    pdf="/Quillien 2017.pdf"
->}}
 
 {{< publication 
     title="Population finiteness is not a concern for null hypothesis significance testing when studying human behavior" 
