@@ -7,11 +7,11 @@ We are looking to hire graduate students for the forthcoming admission cycle (20
 
 {{< bio name="Tadeg Quillien" title="Principal Investigator" image="/Quillien_copenhagen.jpg" alt="tadeg_quillien" width="200" contact="tadeg.quillien AT gmail.com" scholar="https://scholar.google.com/citations?user=7h0VM_kAAAAJ" >}}
 
- I am a chancellor's fellow (research-focused faculty member) in the Psychology department at the University of Edinburgh, and an Associate Editor at _Cognition_. Before that I did a postdoc with [Chris Lucas](https://lucaslab-uoe.github.io/members/chris/) and [Neil Bramley](https://www.bramleylab.ppls.ed.ac.uk/member/neil/) (also at Edinburgh). My PhD was at UCSB's [Center for Evolutionary Psychology](https://www.cep.ucsb.edu/), working with Leda Cosmides and John Tooby.
+ I am a chancellor's fellow (research-focused faculty member) in the Psychology department at the University of Edinburgh, and an Associate Editor at _Cognition_. Previously I was a postdoc with [Chris Lucas](https://lucaslab-uoe.github.io/members/chris/) and [Neil Bramley](https://www.bramleylab.ppls.ed.ac.uk/member/neil/) (also at Edinburgh). My PhD was at UCSB's [Center for Evolutionary Psychology](https://www.cep.ucsb.edu/), working with Leda Cosmides and John Tooby.
 
  {{< /bio >}}
 
- {{< bio name="Madeleine Horner" title="Graduate student" image="/madeleine_horner.png" alt="madeleine_horner" width="200" contact="m.horner-1 AT sms.ed.ac.uk" scholar="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=madeleine+horner&btnG=" >}} 
+ {{< bio name="Madeleine Horner" title="Graduate student" image="/madeleine_horner.png" alt="madeleine_horner" width="200" contact="m.horner-1 AT sms.ed.ac.uk" scholar="https://scholar.google.com/citations?user=fOV2PucAAAAJ" website="https://madeleinehorner.github.io/">}} 
 
 My research interests lie at the intersection of social and cognitive psychology, with a focus on the cognitive mechanisms underlying prosocial behaviour. I explore how people build and use intuitive causal models to predict and explain the prosocial actions of others. Central to this is how people reason about the motivational states that drive prosocial action, such as empathy and the welfare trade-off ratio. I am interested in questions about when and why people perceive others as caring about their welfare, and how that perceived care translates into expectations of helping. To address these questions, I utilise computational modelling, Bayesian inference, and behavioural experiments to uncover the inferential processes that shape how prosocial behaviour is understood.
 
