@@ -25,6 +25,13 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
 ## Journal publications
 
 {{< publication 
+    title="Children seek out observations that can reveal a partner’s generosity" 
+    authors="L. Schlingloff-Nemecz, T. Quillien, A. Ruggeri" 
+    journal="Evolution and Human Behavior" 
+    year="forthcoming" 
+>}}
+
+{{< publication 
     title="Who knows what? Bayesian competence inference guides knowledge attribution and information search" 
     authors="M. Mercier, O. Morin, H. Mercier, T. Quillien" 
     journal="Cognition" 
@@ -219,7 +226,42 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
 
 ## Peer-reviewed conference proceedings
 
-(Conference papers that have been superseded by a journal paper are available [here](/superseded).)
+(Conference papers that have been superseded by a journal paper are available [here](/superseded))
+
+{{< publication 
+    title="An evolutionary model of recombination in social learning" 
+    authors="E. Whitaker, T. Quillien, B. Zhao" 
+    journal="Proceedings of the Cognitive Science Society" 
+    year="forthcoming" 
+>}}
+
+{{< publication 
+    title="When giving more makes you look worse: paradoxical inferences in a Bayesian model of social evaluation" 
+    authors="M. Horner, V. Btesh, A. Moore, T. Quillien" 
+    journal="Proceedings of the Cognitive Science Society" 
+    year="forthcoming" 
+>}}
+
+{{< publication 
+    title="Inferring Arithmetic Skill from Speed and Accuracy" 
+    authors="M. Mercier, R. de Lanerolle, O. Morin, T. Quillien, H. Mercier" 
+    journal="Proceedings of the Cognitive Science Society" 
+    year="forthcoming" 
+>}}
+
+{{< publication 
+    title="Explaining order effects in counterfactual reasoning" 
+    authors="N. Navarre, T. Quillien, T. Gerstenberg, D. Lassiter, N. Bramley" 
+    journal="Proceedings of the Cognitive Science Society" 
+    year="forthcoming" 
+>}}
+
+{{< publication 
+    title="Assessing alternative models of counterfactual reasoning" 
+    authors="B. Rehder, S. Zheng, A. Cao, N. Bramley, T. Quillien" 
+    journal="Proceedings of the Cognitive Science Society" 
+    year="forthcoming" 
+>}}
 
 {{< publication 
     title="Norms moderate causal judgments in cases of double prevention" 
