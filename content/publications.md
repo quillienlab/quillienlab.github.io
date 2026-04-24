@@ -247,6 +247,8 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     authors="M. Mercier, R. de Lanerolle, O. Morin, T. Quillien, H. Mercier" 
     journal="Proceedings of the Cognitive Science Society" 
     year="forthcoming" 
+    pdf="/Mercier et al 2026 arithmetic.pdf"
+    code_and_data="https://github.com/mariusmercier/paper_numeric_competence"
 >}}
 
 {{< publication 
