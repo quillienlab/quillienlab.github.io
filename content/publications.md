@@ -25,6 +25,13 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
 ## Journal publications
 
 {{< publication 
+    title="Luck and intentional action: a causal account" 
+    authors="T. Quillien" 
+    journal="Open Mind" 
+    year="forthcoming" 
+>}}
+
+{{< publication 
     title="Children seek out observations that can reveal a partner’s generosity" 
     authors="L. Schlingloff-Nemecz, T. Quillien, A. Ruggeri" 
     journal="Evolution and Human Behavior" 
