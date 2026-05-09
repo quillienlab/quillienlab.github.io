@@ -29,6 +29,8 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     authors="T. Quillien" 
     journal="Open Mind" 
     year="forthcoming" 
+    pdf="/Quillien 2026.pdf"
+    code_and_data="https://osf.io/6mbv4/overview"
 >}}
 
 {{< publication 
@@ -240,6 +242,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     authors="E. Whitaker, T. Quillien, B. Zhao" 
     journal="Proceedings of the Cognitive Science Society" 
     year="forthcoming" 
+    pdf="/Whitaker et al 2026.pdf"
 >}}
 
 {{< publication 
@@ -247,6 +250,8 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     authors="M. Horner, V. Btesh, A. Moore, T. Quillien" 
     journal="Proceedings of the Cognitive Science Society" 
     year="forthcoming" 
+    pdf="/Horner et al 2026.pdf"
+    code_and_data="https://github.com/Vbtesh/cogsci2026_inferring-welfare-tradeoff-ratio"
 >}}
 
 {{< publication 
@@ -260,9 +265,11 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
 
 {{< publication 
     title="Explaining order effects in counterfactual reasoning" 
-    authors="N. Navarre, T. Quillien, T. Gerstenberg, D. Lassiter, N. Bramley" 
+    authors="N. Navarre, T. Quillien, D. Lassiter, T. Gerstenberg, N. Bramley" 
     journal="Proceedings of the Cognitive Science Society" 
     year="forthcoming" 
+    pdf="/Navarre et al 2026.pdf"
+    code="https://github.com/navarrenicolas/backtracking_counterfactuals"
 >}}
 
 {{< publication 
@@ -270,6 +277,7 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     authors="B. Rehder, S. Zheng, A. Cao, N. Bramley, T. Quillien" 
     journal="Proceedings of the Cognitive Science Society" 
     year="forthcoming" 
+    pdf="/Rehder et al 2026.pdf"
 >}}
 
 {{< publication 
