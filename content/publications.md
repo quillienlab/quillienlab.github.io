@@ -38,6 +38,8 @@ If a link is broken, or you have trouble interpreting the data / reproducing an 
     authors="L. Schlingloff-Nemecz, T. Quillien, A. Ruggeri" 
     journal="Evolution and Human Behavior" 
     year="forthcoming" 
+    pdf="/Schlingloff-Nemecz et al 2026.pdf"
+    code_and_data="https://osf.io/ny4m2/overview?view_only=654f0a3687494ae8a62cc24a22ce6d1d"
 >}}
 
 {{< publication 
