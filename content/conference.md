@@ -12,7 +12,8 @@ This small informal workshop brings together cognitive scientists from the UK an
 
 
 ## Fourth edition (June 5/6th, 2026)
-(details to come)
+Organizers: Zach Horne, Tadeg Quillien, Bonan Zhao, Christian Odenwald, Stephanie Chen.
+Program coming soon.
 
 ## Third edition (June 19/20th, 2025)
 Organizers: Zach Horne, Tadeg Quillien, Artemis Deligianni, Madeleine Horner, Peyton Snyder.
