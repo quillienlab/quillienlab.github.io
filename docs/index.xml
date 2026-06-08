@@ -50,5 +50,12 @@
       <guid>https://quillienlab.github.io/superseded/</guid>
       <description>Conference papers superseded by a journal paper (standard disclaimer: PDFs are available for non-commercial information purposes only.)&#xA;If a link is broken, or you have trouble interpreting the data / reproducing an analysis / running a model, please feel free to reach out to tadeg.quillien AT gmail.com.&#xA;Plural causes in causal judgment&#xA;C. Konuk, M. Goodale, T. Quillien, S. Mascarenhas&#xA;Proceedings of the Cognitive Science Society, 2023 [pdf]&#xD;[code_and_data]&#xD;[journal_paper]&#xD;[thread]&#xD;The logic of guesses: how people communicate probabilistic information</description>
     </item>
+    <item>
+      <title>Tsinghua Logic Summer School</title>
+      <link>https://quillienlab.github.io/summer_school/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://quillienlab.github.io/summer_school/</guid>
+      <description>Causal Models Course at the 6th Tsinghua Logic Summer School, 2026 Instructors: Bonan Zhao and Tadeg Quillien (University of Edinburgh) Location: tbd&#xA;Time: tbd&#xA;Teaching assistants: Wenlong Zheng (zhengwl21 at mails dot tsinghua dot edu dot cn) and Xiangyuan Ji (xy-ji23 at mails dot tsinghua dot edu dot cn)&#xA;Course description This course explores formal approaches to causal reasoning. We begin with an introduction to causal graphical models, examining how Causal Bayes Nets and Structural Causal Models can be used to represent and reason about causal structures.</description>
+    </item>
   </channel>
 </rss>
