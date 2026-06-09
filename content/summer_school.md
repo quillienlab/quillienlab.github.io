@@ -47,3 +47,11 @@ The course concludes with an introduction to counterfactual reasoning and some o
 ## Homework and exams
 
 (tbd)
+
+## Readings (optional)
+
+Pearl, J., & Mackenzie, D. (2018). *The book of why: the new science of cause and effect.* Basic books.
+Pearl, J. (2009). *Causality*. Cambridge university press. (especially chapters 1,3,7)
+Pearl, J. (2018). Theoretical impediments to machine learning with seven sparks from the causal revolution. *arXiv preprint arXiv:1801.04016.*
+Zhao, B., Lucas, C. G., & Bramley, N. R. (2024). A model of conceptual bootstrapping in human cognition. *Nature Human Behaviour, 8*(1), 125-136.
+Quillien, T., & Lucas, C.G. (2023). Counterfactuals and the logic of causal selection. *Psychological Review*.
