@@ -14,8 +14,8 @@ This small informal workshop brings together cognitive scientists from the UK an
 ## Fourth edition (June 5/6th, 2026)
 Organizers: Zach Horne, Tadeg Quillien, Bonan Zhao, Christian Odenwald, Stephanie Chen.
 
-[Programme](https://docs.google.com/document/d/1xHhuSCleeo4LyOtVs4svzAFc-Yw9y9Ea/edit)
-[Detailed programme](https://docs.google.com/document/d/1FP6N0V0Q5RhaKsTE2_7WtVMwvmPbvpV1QLJsFiC2A7s/edit?tab=t.0)
+[Conference programme](/EdinCogSciCon%20Program%202026%20(Final%20version).pdf)
+
 
 ## Third edition (June 19/20th, 2025)
 Organizers: Zach Horne, Tadeg Quillien, Artemis Deligianni, Madeleine Horner, Peyton Snyder.
