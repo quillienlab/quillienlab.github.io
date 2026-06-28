@@ -6,7 +6,7 @@ description: "Edinburgh cognitive science conference"
 
 
 
-This small informal workshop brings together cognitive scientists from the UK and beyond every year in June. We usually cap things off with a hike up Arthur’s Seat. test
+This small informal workshop brings together cognitive scientists from the UK and beyond every year in June. We usually cap things off with a hike up Arthur’s Seat.
 
 
 
