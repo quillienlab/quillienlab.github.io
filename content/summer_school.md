@@ -8,9 +8,9 @@ description: "Tsinghua Logic Summer School"
 
 ## Instructors: [Bonan Zhao](https://zhaobn.github.io/index.html) and [Tadeg Quillien](/people) (University of Edinburgh)
 
-Location: tbd
+Location: Jianhua Building A308
 
-Time: tbd
+Time: 9:50-12:15, June 29th-July 3rd
 
 Teaching assistants: Wenlong Zheng (zhengwl21 at mails dot tsinghua dot edu dot cn) and Xiangyuan Ji (xy-ji23 at mails dot tsinghua dot edu dot cn)
 
