@@ -37,12 +37,14 @@ The course concludes with an introduction to counterfactual reasoning and some o
 ### Day 1: introduction to causal models
 
 [Lecture slides 1](/Summer_school%20day%201%20lecture%201.pdf)
-
 [Lecture slides 2](/Summer_school%20day%201%20lecture%202.pdf)
-
 [Lecture slides 3](/Summer_school%20day%201%20lecture%203.pdf)
 
 ### Day 2: inference and learning in causal models
+
+[Lecture slides 1](/Summer_school%20day%202%20lecture%201.pdf)
+[Lecture slides 2](/Summer_school%20day%202%20lecture%202.pdf)
+[Lecture slides 3](/Summer_school%20day%202%20lecture%203.pdf)
 
 ### Day 3: program induction
 
@@ -52,7 +54,7 @@ The course concludes with an introduction to counterfactual reasoning and some o
 
 ## Homework and exams
 
-(tbd)
+[Homework 1](/Summer_school%20homework%201.pdf) Due Wednesday at 09:50.
 
 ## Readings (optional)
 
