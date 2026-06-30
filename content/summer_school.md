@@ -58,6 +58,8 @@ The course concludes with an introduction to counterfactual reasoning and some o
 
 [Homework 1](/Summer_school%20homework%201.pdf) Due Wednesday at 09:50.
 
+[Homework 2](/homework%202.pdf) Due Thursday at 09:50.
+
 ## Readings (optional)
 
 ### Introductory
