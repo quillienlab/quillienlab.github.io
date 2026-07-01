@@ -56,6 +56,8 @@ The course concludes with an introduction to counterfactual reasoning and some o
 
 ## Homework and exams
 
+Each homework is worth 20% of the grade. The final exam is worth 40%.
+
 [Homework 1](/Summer_school%20homework%201.pdf) Due Wednesday at 09:50.
 
 [Homework 2](/homework%202.pdf) Due Friday at 09:50.
