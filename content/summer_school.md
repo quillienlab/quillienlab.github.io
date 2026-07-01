@@ -49,8 +49,12 @@ The course concludes with an introduction to counterfactual reasoning and some o
 ### Day 3: program induction
 
 [Lecture slides](/day3_slides.pdf)
-[handout](/day3_handout.pdf)
+[Handout](/day3_handout.pdf)
+
 ### Day 4: approximate inference
+
+[Lecture slides](/day4_slides.pdf)
+[Handout](/day4_handout.pdf)
 
 ### Day 5: counterfactuals, conclusion
 
