@@ -58,13 +58,18 @@ The course concludes with an introduction to counterfactual reasoning and some o
 
 ### Day 5: counterfactuals, conclusion
 
+[Lecture slides 1](/Summer_school%20day%205%20lecture%201.pdf)
+[Lecture slides 2](/Summer_school%20day%205%20lecture%202.pdf)
+
 ## Homework and exams
 
 Each homework is worth 20% of the grade. The final exam is worth 40%.
 
-[Homework 1](/Summer_school%20homework%201.pdf) Due Wednesday at 09:50.
+[Homework 1](/Summer_school%20homework%201.pdf) Due Wednesday at 09:50. [Homework 1 answers](/homework%201%20answer%20sheet.pdf)
 
 [Homework 2](/homework%202.pdf) Due Friday at 09:50.
+
+[Homework 3](/homework%203.pdf) Due Monday at 23:59.
 
 ## Readings (optional)
 
