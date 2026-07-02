@@ -69,7 +69,7 @@ Each homework is worth 20% of the grade. The final exam is worth 40%.
 
 [Homework 2](/homework%202.pdf) Due Friday at 09:50.
 
-[Homework 3](/homework%203.pdf) Due Monday at 23:59.
+[Homework 3](/homework%203.pdf) Due Monday at 23:59..
 
 ## Readings (optional)
 
